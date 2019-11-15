@@ -1,0 +1,9 @@
+{
+    "name": "pigsas/nfq06",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nfq\\Academy\\": "src/"
+        }
+    }
+}
